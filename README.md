@@ -1,4 +1,4 @@
-# pfSense – Prerequisites and Installation
+# PfSense – Prerequisites and Installation
 
 This tutorial outlines the prerequisites and initial installation of a **pfSense-based network security lab**. This phase focuses on setting up the virtual environment, configuring network adapters, and verifying base connectivity before implementing VLANs and firewall rules.
 
